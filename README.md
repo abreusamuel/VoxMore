@@ -35,9 +35,24 @@ funcione. Após a instalação concluída, o VoxMore estará disponível para se
 no menu dinâmico do Praat.
 
 #### Passos para instalar no Windows:
-1. 
+1. Após o download copiar ou recortar o arquivo plugin_VoxMore.zip
 
-![](/imagens/Parte1.png)
+2. Localizar e abrir partição no Windows
+<img src="/imagens/win1.png" width="600" height="300" />
+
+3. Localizar e abrir pasta Usuários
+<img src="/imagens/win2.png" width="600" height="300" />
+
+4. Localizar e abrir pasta do seu usuário
+<img src="/imagens/win3.png" width="600" height="300" />
+
+5. Localizar e abrir pasta Praat
+<img src="/imagens/win4.png" width="600" height="300" />
+
+6. Colar e/ou descompactar o arquivo plugin_VoxMore.zip na pasta Praat
+<img src="/imagens/win5.png" width="600" height="300" />
+
+
 #
 #### Créditos e Referências: 
 #### Maryn Y, De Bodt M, Roy N. The Acoustic Voice Quality Index: toward improved treatment outcomes assessment in voice disorders. Journal of communication disorders. 2010; 43(3):161-174.
