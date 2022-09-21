@@ -33,7 +33,7 @@ Vale ressaltar que, se o Praat estiver aberto no momento da instalação do plug
 necessário encerrar e iniciar novamente o Praat para que a instalação do VoxMore
 funcione. Após a instalação concluída, o VoxMore estará disponível para ser acessado
 no menu dinâmico do Praat.
-
+#
 #### Passos para instalar no Windows:
 1. Após o download copiar ou recortar o arquivo plugin_VoxMore.zip
 
@@ -52,8 +52,35 @@ no menu dinâmico do Praat.
 6. Colar e/ou descompactar o arquivo plugin_VoxMore.zip na pasta Praat
 <img src="/imagens/win5.png" width="600" height="300" />
 
+#
+### Utilização no Praat
+
+1. Abrir uma gravação (44100 Hz) de uma vogal sustentada
+<img src="/imagens/praat1.png" width="300" height="300" />
+
+
+2. No menu dinâmico (lado direito) irá aparecer um botão LIEV-UFPB -> VoxMore. Selecione a opção VoxMore.
+<img src="/imagens/praat2.png" width="300" height="300" />
+
+
+3. Vai abrir um formulário para ser preenchido (não é obrigatório). As informações serão inseridas no cabeçalho do relatório.
+<img src="/imagens/praat3.png" width="300" height="300" />
+
+
+4. Escolher a pasta onde o relatório será salvo.
+<img src="/imagens/praat4.png" width="300" height="300" />
 
 #
-#### Créditos e Referências: 
+### Relatório final
+<img src="/imagens/Parte1.png" />
+
+<img src="/imagens/Parte2.png" />
+
+<img src="/imagens/Parte3.png" />
+
+<img src="/imagens/Parte4.png" />
+
+#
+## Créditos e Referências: 
 #### Maryn Y, De Bodt M, Roy N. The Acoustic Voice Quality Index: toward improved treatment outcomes assessment in voice disorders. Journal of communication disorders. 2010; 43(3):161-174.
 #### Latoszek BB, Maryn Y, Gerrits E, De Bodt M. The acoustic breathiness index (ABI): A multivariate acoustic model for breathiness. Journal of Voice. 2017; 31(4): 511-e11.
